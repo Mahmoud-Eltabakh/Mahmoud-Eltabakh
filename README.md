@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mahmoud-Eltabakh an Automotive Technology student at the university of applied sciences coburg 
-- 🌱 I’m currently learning c++/Cmake/Machine learning
 - 📫 reach me on linkedin: https://www.linkedin.com/in/mahmoud-s-eltabakh/ 
 
 <!---
